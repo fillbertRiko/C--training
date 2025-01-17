@@ -1,0 +1,7 @@
+D:\C#\sapXepMang1\bin\Debug\sapXepMang1.exe.config
+D:\C#\sapXepMang1\bin\Debug\sapXepMang1.exe
+D:\C#\sapXepMang1\bin\Debug\sapXepMang1.pdb
+D:\C#\sapXepMang1\obj\Debug\sapXepMang1.csproj.AssemblyReference.cache
+D:\C#\sapXepMang1\obj\Debug\sapXepMang1.csproj.CoreCompileInputs.cache
+D:\C#\sapXepMang1\obj\Debug\sapXepMang1.exe
+D:\C#\sapXepMang1\obj\Debug\sapXepMang1.pdb
