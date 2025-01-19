@@ -1,0 +1,7 @@
+D:\C#\C--training\SapXepMangGiamDan\bin\Debug\SapXepMangGiamDan.exe.config
+D:\C#\C--training\SapXepMangGiamDan\bin\Debug\SapXepMangGiamDan.exe
+D:\C#\C--training\SapXepMangGiamDan\bin\Debug\SapXepMangGiamDan.pdb
+D:\C#\C--training\SapXepMangGiamDan\obj\Debug\SapXepMangGiamDan.csproj.AssemblyReference.cache
+D:\C#\C--training\SapXepMangGiamDan\obj\Debug\SapXepMangGiamDan.csproj.CoreCompileInputs.cache
+D:\C#\C--training\SapXepMangGiamDan\obj\Debug\SapXepMangGiamDan.exe
+D:\C#\C--training\SapXepMangGiamDan\obj\Debug\SapXepMangGiamDan.pdb

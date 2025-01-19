@@ -1,0 +1,7 @@
+D:\C#\C--training\InRaMang\bin\Debug\InRaMang.exe.config
+D:\C#\C--training\InRaMang\bin\Debug\InRaMang.exe
+D:\C#\C--training\InRaMang\bin\Debug\InRaMang.pdb
+D:\C#\C--training\InRaMang\obj\Debug\InRaMang.csproj.AssemblyReference.cache
+D:\C#\C--training\InRaMang\obj\Debug\InRaMang.csproj.CoreCompileInputs.cache
+D:\C#\C--training\InRaMang\obj\Debug\InRaMang.exe
+D:\C#\C--training\InRaMang\obj\Debug\InRaMang.pdb
