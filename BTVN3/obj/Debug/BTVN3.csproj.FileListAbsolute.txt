@@ -1,0 +1,7 @@
+D:\C#\C--training\BTVN3\obj\Debug\BTVN3.csproj.AssemblyReference.cache
+D:\C#\C--training\BTVN3\obj\Debug\BTVN3.csproj.CoreCompileInputs.cache
+D:\C#\C--training\BTVN3\bin\Debug\BTVN3.exe.config
+D:\C#\C--training\BTVN3\bin\Debug\BTVN3.exe
+D:\C#\C--training\BTVN3\bin\Debug\BTVN3.pdb
+D:\C#\C--training\BTVN3\obj\Debug\BTVN3.exe
+D:\C#\C--training\BTVN3\obj\Debug\BTVN3.pdb
